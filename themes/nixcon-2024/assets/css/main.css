@@ -12,10 +12,6 @@ header {
   margin-bottom: 1rem;
 }
 
-footer {
-  margin-top: 1rem;
-}
-
 a {
   color: white;
   background-color: black;
@@ -92,6 +88,10 @@ h1 {
     font-family: Hack, monospace;
 }
 
+footer {
+    margin-top: 0;
+}
+
 /* Desktop/laptop/big tablets */
 @media (min-width: 800px) {
     #header {
@@ -115,11 +115,19 @@ h1 {
     .box {
         border: O;
     }
-}
-
-footer {
-    margin-top: 0;
-    margin-bottom: 2rem;
+    footer > p {
+        padding-left: 1em;
+        padding-right: 1em;
+        margin-top: .8rem;
+        margin-bottom: .8rem;
+    }
+    #prev-editions {
+        display: flex;
+        justify-content: left;
+    }
+    #prev-editions > a {
+        margin-right: 1rem;
+    }
 }
 
 @font-face {
