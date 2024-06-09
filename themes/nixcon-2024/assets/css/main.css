@@ -12,23 +12,15 @@ header {
   margin-bottom: 1rem;
 }
 
+p {
+  font-size: .8rem;
+  font-family: Hack, monospace;
+}
+
 a {
   color: white;
   background-color: black;
   padding: .2em;
-}
-
-main {
-}
-
-.box > h1 {
-    padding-left: .5rem;
-    font-size: 1.5rem;
-    margin: 0;
-}
-
-#menu > ul > li > a {
-    color: white;
 }
 
 h1 {
@@ -61,7 +53,6 @@ h1 {
 #menu {
     background-color: black;
     margin-bottom: 0px;
-    color: white;
 }
 
 #menu > ul {
@@ -84,8 +75,12 @@ h1 {
 .box > p {
     padding-left: .5rem;
     padding-right: .5rem;
-    font-size: .8rem;
-    font-family: Hack, monospace;
+}
+
+.box > h1 {
+    padding-left: .5rem;
+    font-size: 1.5rem;
+    margin: 0;
 }
 
 footer {
@@ -117,8 +112,8 @@ footer {
         border: O;
     }
     footer > p {
-        padding-left: 1em;
-        padding-right: 1em;
+        padding-left: 1rem;
+        padding-right: 1rem;
         margin-top: .8rem;
         margin-bottom: .8rem;
     }
