@@ -109,7 +109,7 @@ footer {
         align-items: center;
     }
     .box {
-        border: O;
+        border: none;
     }
     footer > p {
         padding-left: 1rem;
@@ -153,5 +153,5 @@ footer {
   font-family: 'Hack';
   src: url('/fonts/hack-bold.woff2') format('woff2'), url('/fonts/hack-bold.woff') format('woff');
   font-weight: 700;
-  font-style: bold;
+  font-style: normal;
 }
