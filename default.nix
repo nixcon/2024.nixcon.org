@@ -1,17 +1,9 @@
-{ pkgs ? import <nixpkgs> {} }:
-let
-  stdenv = pkgs.stdenv;
-  lib = pkgs.lib;
-in stdenv.mkDerivation {
+{ pkgs ? import <nixpkgs> { }
+, version ? "none"
+}: with pkgs; stdenv.mkDerivation {
+  inherit version;
   pname = "nixcon-2024-website";
-  version = "nope";
   src = lib.cleanSource ./.;
-  nativeBuildInputs = [ pkgs.hugo ];
-  buildPhase = ''
-    hugo
-  '';
-  installPhase = ''
-    mkdir -p $out
-    cp -r public/* $out
-  '';
+  nativeBuildInputs = [ hugo ];
+  buildPhase = "hugo -d $out";
 }
