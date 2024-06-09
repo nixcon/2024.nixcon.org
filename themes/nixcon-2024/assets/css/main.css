@@ -102,6 +102,7 @@ footer {
     }
     .box {
         border: 3px solid black;
+        box-shadow: #6a6a6a 10px 10px;
     }
 }
 
