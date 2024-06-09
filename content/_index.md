@@ -17,7 +17,7 @@ The growth of NixOS as a project brings its own challenges and we would like to 
 
 # Location
 
-We're currently looking for a venue. It'll ben in Berlin for sure, likely end of October/early November. More informations coming soon.
+We're currently looking for a venue. It'll be in Berlin for sure, likely end of October/early November. More informations coming soon.
 
 {{</ box >}}
 
