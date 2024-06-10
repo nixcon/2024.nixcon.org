@@ -91,6 +91,12 @@ footer {
     #header {
         margin-top: 2rem;
     }
+    #website-title {
+        margin-top: 1rem;
+    }
+    #nixcon-logo {
+        margin-right: 2rem;
+    }
     #about-text-phone {
         display: none;
     }
