@@ -92,10 +92,11 @@ footer {
         margin-top: 2rem;
     }
     #website-title {
-        margin-top: 1rem;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
     }
     #nixcon-logo {
-        margin-right: 2rem;
+        margin-right: 4rem;
     }
     #about-text-phone {
         display: none;
@@ -119,6 +120,7 @@ footer {
         align-items: center;
     }
     #website-title {
+        margin-top: 0.5rem;
         flex-direction: column;
     }
     #nixcon-logo {
