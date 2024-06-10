@@ -1,173 +1,179 @@
 body {
-  color: black;
-  background-color: #eeeeee;
-  font-family: "JetBrains Mono", monospace;
-  font-size: 1rem;
-  line-height: 1.5;
-  margin: auto;
-  max-width: 900px;
+	color: black;
+	background-color: #eeeeee;
+	font-family: "JetBrains Mono", monospace;
+	font-size: 1rem;
+	line-height: 1.5;
+	margin: auto;
+	max-width: 900px;
 }
 
 header {
-  margin-bottom: 1rem;
+	margin-bottom: 1rem;
 }
 
 p {
-  font-size: 1rem;
-  font-family: "JetBrains Mono", monospace;
+	font-size: 1rem;
+	font-family: "JetBrains Mono", monospace;
 }
 
 a {
-  text-decoration: none;
-  color: #eeeeee;
-  background-color: black;
-  padding: .2em;
+	text-decoration: none;
+	color: #eeeeee;
+	background-color: black;
+	padding: .2em;
 }
 
 a:hover { text-decoration: underline; }
 
 h1 {
-  background-color: black;
-  color: #eeeeee;
-  font-family: "Oxanium", monospace;
-  font-weight: 700;
-  font-style: normal;
+	background-color: black;
+	color: #eeeeee;
+	font-family: "Oxanium", monospace;
+	font-weight: 700;
+	font-style: normal;
 }
 
 #nixcon-logo {
-  width: 40rem;
+	width: 40rem;
 }
 
 #website-title {
-  display: flex;
-  align-items: center;
+	display: flex;
+	align-items: center;
 }
 
 
 #menu {
-  background-color: black;
-  margin-top: 1em;
-  margin-bottom: 2em;
+	background-color: black;
+	margin-top: 1em;
+	margin-bottom: 2em;
 }
 
 #menu > ul {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    font-family: "Oxanium", monospace;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 1.5rem;
-    display: flex;
-    justify-content: space-around;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-family: "Oxanium", monospace;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.5rem;
+	display: flex;
+	justify-content: space-around;
 }
 
 .box {
-    margin: 0;
-    margin-bottom: 2em;
+	margin: 0;
+	margin-bottom: 2em;
 }
 
 .box > p {
-    padding-left: .5rem;
-    padding-right: .5rem;
+	padding-left: .5rem;
+	padding-right: .5rem;
 }
 
 .box > h1 {
-    padding-left: .5rem;
-    font-size: 1.5rem;
-    margin: 0;
+	padding-left: .5rem;
+	font-size: 1.5rem;
+	margin: 0;
 }
 
 footer {
-    margin-top: 0;
+	padding-top: 1em;
+}
+
+footer > p {
+	magin: auto;
+	text-align: center;
 }
 
 /* Desktop/laptop/big tablets */
 @media (min-width: 480px) {
-    #header {
-        margin-top: 2rem;
-    }
-    #website-title {
-        margin-top: 3rem;
-        margin-bottom: 3rem;
-    }
-    #nixcon-logo {
-        margin-right: 4rem;
-    }
-    #about-text-phone {
-        display: none;
-    }
-    #about-text-desktop {
-        margin-left: 1rem;
-    }
-    #menu > ul {
-        flex-direction: row;
-    }
-    .box {
-        border: 3px solid black;
-        box-shadow: #6a6a6a 10px 10px;
-    }
+	#header {
+		margin-top: 2rem;
+	}
+	#website-title {
+		margin-top: 3rem;
+		margin-bottom: 3rem;
+	}
+	#nixcon-logo {
+		margin-right: 4rem;
+	}
+	#about-text-phone {
+		display: none;
+	}
+	#about-text-desktop {
+		margin-left: 1rem;
+	}
+	#menu > ul {
+		flex-direction: row;
+	}
+	.box {
+		border: 3px solid black;
+		box-shadow: #6a6a6a 10px 10px;
+	}
 }
 
 /* Phones/small tablets */
 @media (max-width: 480px) {
-    #menu > ul {
-        flex-direction: column;
-        align-items: center;
-    }
-    #website-title {
-        margin-top: 0.5rem;
-        flex-direction: column;
-    }
-    #nixcon-logo {
-        width: 55vw;
-    }
-    #about-text-desktop {
-        display: none;
-    }
-    .box {
-        border: none;
-    }
-    footer > p {
-        padding-left: 1rem;
-        padding-right: 1rem;
-        margin-top: .8rem;
-        margin-bottom: .8rem;
-    }
-    #prev-editions {
-        display: flex;
-        justify-content: left;
-    }
-    #prev-editions > a {
-        margin-right: 1rem;
-    }
+	#menu > ul {
+		flex-direction: column;
+		align-items: center;
+	}
+	#website-title {
+		margin-top: 0.5rem;
+		flex-direction: column;
+	}
+	#nixcon-logo {
+		width: 55vw;
+	}
+	#about-text-desktop {
+		display: none;
+	}
+	.box {
+		border: none;
+	}
+	footer > p {
+		padding-left: 1rem;
+		padding-right: 1rem;
+		margin-top: .8rem;
+		margin-bottom: .8rem;
+	}
+	#prev-editions {
+		display: flex;
+		justify-content: left;
+	}
+	#prev-editions > a {
+		margin-right: 1rem;
+	}
 }
 
+
 .blink_me {
-  animation: blinker 1s infinite;
+	animation: blinker 1s infinite;
 }
 
 @keyframes blinker {
-  50% {
-    opacity: 0;
-  }
+	50% {
+		opacity: 0;
+	}
 }
 
 .blink_me::before {
-      content: "█\A0"
+	content: "█\A0"
 }
 
 @font-face {
-  font-family: 'Oxanium';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(/fonts/oxanium-bold.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+	font-family: 'Oxanium';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(/fonts/oxanium-bold.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 @font-face {
-  font-family: 'JetBrains Mono';
-  font-style: normal;
-  src: url(/fonts/JetBrainsMono-Regular.woff2) format('woff2');
+	font-family: 'JetBrains Mono';
+	font-style: normal;
+	src: url(/fonts/JetBrainsMono-Regular.woff2) format('woff2');
 }
