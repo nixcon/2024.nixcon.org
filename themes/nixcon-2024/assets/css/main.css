@@ -143,6 +143,20 @@ footer {
     }
 }
 
+.blink_me {
+  animation: blinker 1s infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.blink_me::before {
+      content: "█\A0"
+}
+
 @font-face {
   font-family: 'Jersey 25';
   font-style: normal;
@@ -156,18 +170,4 @@ footer {
   font-family: 'JetBrains Mono';
   font-style: normal;
   src: url(/fonts/JetBrainsMono-Regular.woff2) format('woff2');
-}
-
-.blink_me {
-  animation: blinker 1s infinite;
-}
-
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
-}
-
-.blink_me::before {
-      content: "█\A0"
 }
