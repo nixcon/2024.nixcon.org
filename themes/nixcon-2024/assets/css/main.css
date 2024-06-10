@@ -40,7 +40,6 @@ h1 {
 
 #nixcon-logo {
   width: 40rem;
-  margin-left: -4em;
 }
 
 #website-title {
@@ -48,12 +47,11 @@ h1 {
   align-items: center;
 }
 
-#about-text { margin-left: -1em;}
 
 #menu {
-	background-color: black;
-	margin-top: 1em;
-    margin-bottom: 2em;
+  background-color: black;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 
 #menu > ul {
@@ -93,6 +91,12 @@ footer {
     #header {
         margin-top: 2rem;
     }
+    #about-text-phone {
+        display: none;
+    }
+    #about-text-desktop {
+        margin-left: 1rem;
+    }
     #menu > ul {
         flex-direction: row;
     }
@@ -107,6 +111,15 @@ footer {
     #menu > ul {
         flex-direction: column;
         align-items: center;
+    }
+    #website-title {
+        flex-direction: column;
+    }
+    #nixcon-logo {
+        width: 55vw;
+    }
+    #about-text-desktop {
+        display: none;
     }
     .box {
         border: none;
