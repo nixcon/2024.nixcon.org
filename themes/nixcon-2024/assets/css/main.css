@@ -1,11 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Sixtyfour:BLED,SCAN@0,-53&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
 body {
   color: black;
-  background-color: #d1d1d1;
-  font-family: Hack, monospace;
-  font-size: .8rem;
+  background-color: #eeeeee;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 1rem;
   line-height: 1.5;
   margin: auto;
-  max-width: 768px;
+  max-width: 900px;
 }
 
 header {
@@ -13,46 +17,43 @@ header {
 }
 
 p {
-  font-size: .8rem;
-  font-family: Hack, monospace;
+  font-size: 1rem;
+  font-family: "JetBrains Mono", monospace;
 }
 
 a {
-  color: white;
+  text-decoration: none;
+  color: #eeeeee;
   background-color: black;
   padding: .2em;
 }
 
+a:hover { text-decoration: underline; }
+
 h1 {
   background-color: black;
-  color: white;
+  color: #eeeeee;
   font-family: "Jersey 25", monospace;
   font-weight: 400;
   font-style: normal;
 }
 
 #nixcon-logo {
-    width: 18rem;
+  width: 40rem;
+  margin-left: -4em;
 }
 
 #website-title {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
-#title-text-c {
-    display: flex;
-    flex-direction: column;
-}
-
-#title-text-c > p {
-    font-size: .6rem;
-    margin: 0;
-}
+#about-text { margin-left: -1em;}
 
 #menu {
-    background-color: black;
-    margin-bottom: 0px;
+	background-color: black;
+	margin-top: 1em;
+    margin-bottom: 2em;
 }
 
 #menu > ul {
@@ -101,7 +102,6 @@ footer {
     }
 }
 
-
 /* Phones/small tablets */
 @media (max-width: 480px) {
     #menu > ul {
@@ -109,7 +109,7 @@ footer {
         align-items: center;
     }
     .box {
-        border: O;
+        border: none;
     }
     footer > p {
         padding-left: 1rem;
@@ -131,27 +131,20 @@ footer {
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(/fonts/jersey-25-latin-400-normal.woff) format('woff2'), url(/fonts/jersey-25-latin-400-normal.woff) format('woff');
+  src: url(/fonts/jersey-25-latin-400-normal.woff2) format('woff2'), url(/fonts/jersey-25-latin-400-normal.woff) format('woff');
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
 }
 
-@font-face {
-  font-family: 'Hack';
-  src: url('/fonts/hack-regular.woff2') format('woff2'), url('/fonts/hack-regular.woff') format('woff');
-  font-weight: 400;
-  font-style: normal;
+.blink_me {
+  animation: blinker 1s infinite;
 }
 
-@font-face {
-  font-family: 'Hack';
-  src: url('/fonts/hack-italic.woff2') format('woff2'), url('/fonts/hack-italic.woff') format('woff');
-  font-weight: 400;
-  font-style: italic;
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
 }
 
-@font-face {
-  font-family: 'Hack';
-  src: url('/fonts/hack-bold.woff2') format('woff2'), url('/fonts/hack-bold.woff') format('woff');
-  font-weight: 700;
-  font-style: bold;
+.blink_me::before {
+      content: "█\A0"
 }
