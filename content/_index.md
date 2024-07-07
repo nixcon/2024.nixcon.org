@@ -5,15 +5,11 @@
 
 # Location
 
-We're currently looking for a venue. It'll be in Berlin for sure, likely end of
-October/early November. More information coming soon.
+NixCon 2024 will take place from Friday, October 25th till Sunday, October 27th
+at [bUm - Raum für solidarisches Miteinander](https://bum.berlin) in Berlin,
+Germany.
 
-Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim
-labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi
-anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est
-aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia
-pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat
-reprehenderit.
+More info coming soon.
 
 {{</ box >}}
 
