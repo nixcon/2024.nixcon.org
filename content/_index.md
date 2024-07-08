@@ -17,19 +17,15 @@ More info coming soon.
 
 # Tickets
 
-The tickets sale is not open yet. We'll update this section with a link to the
-ticketing system when we'll be ready to sell them.
+The ticket sales will begin sometime this week. We'll update this
+section with a link to the ticketing system when we're ready to sell
+them. There will be a proper announcement for that.
 
-Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim
-labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi
-anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est
-aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia
+Everyone participating is expected to buy a ticket. That includes the
+event organizers and the speakers.
 
-commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa
-proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia
-eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim.
-Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa
-duis.
+Regular tickets will cost €133.70. Friends & Business Tickets will
+also be available.
 
 {{</ box >}}
 
@@ -37,9 +33,9 @@ duis.
 
 # Timeline
 
+- **XX/XX/XXXX**: Tickets sale opening
 - **XX/XX/XXXX**: CFP
 - **XX/XX/XXXX**: CFP deadline
-- **XX/XX/XXXX**: Tickets sale opening
 - **XX/XX/XXXX**: Event starts
 
 

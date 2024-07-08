@@ -1,10 +1,14 @@
-NixCon is a community-oriented conference for contributors and users of Nix and
-NixOS. It's about sharing experiences, inspiring people and discussing future
-development.
+NixCon is a community-oriented conference and hackcentre for
+contributors and users of Nix and NixOS. It's about sharing
+experiences, inspiring people, discussing future development or just
+hanging out with fellow contributors.
 
-We would like to learn about how you use Nix and NixOS in your organization and
-what you are currently working on.
+This is an event by the community for the community. We want to show
+that we are self-sufficient, and for that reason, there will be no
+sponsorships this time. We want to have a larger emphasis on workshops
+and on working together on problems we deeply care about.
 
-The growth of NixOS as a project brings its own challenges and we would like to
-know how you think the user experience can be improved and how NixOS can be
-scaled.
+You can expect workshops and talks for beginners, intermediates, and
+pros alike. An open hackcentre where you can collaborate on your
+projects or just chill. Finally, a hackday during which you can work
+on important projects or just hang out with other Nix hackers.
