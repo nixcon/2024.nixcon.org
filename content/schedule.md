@@ -3,6 +3,6 @@
 {{< box >}}
 # Schedule
 
-todo
+Coming soon.
 
 {{< /box >}}

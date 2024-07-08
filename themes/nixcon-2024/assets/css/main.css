@@ -78,6 +78,14 @@ h1 {
 	margin: 0;
 }
 
+.box > h2 {
+	padding-left: .5rem;
+}
+
+.box > h3 {
+	padding-left: .5rem;
+}
+
 footer {
 	padding-top: 1em;
 }
