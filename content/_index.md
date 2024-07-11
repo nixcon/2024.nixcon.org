@@ -17,15 +17,17 @@ More info coming soon.
 
 # Tickets
 
-The ticket sales will begin sometime this week. We'll update this
-section with a link to the ticketing system when we're ready to sell
-them. There will be a proper announcement for that.
+The ticket sale will open up at Saturday July 13, 2024 2:00 PM CEST. They will be available at: https://tickets.nixcon.org/2024/
 
-Everyone participating is expected to buy a ticket. That includes the
-event organizers and the speakers.
+In order to make this a community-driven NixCon without sponsors, we have adopted a more dynamic pricing model.
 
-Regular tickets will cost €133.70. Friends & Business Tickets will
-also be available.
+There are multiple ticket types:
+
+- Regular tickets: 133.73€, but you can set a higher amount, if you want. These include all the associated costs with the conference.
+- Friend tickets: You can set the price freely. We encourage you to set a fair amount, as we aim to make nixcon accessible to everyone, regardless of their financial situation. Please choose responsibly to ensure inclusivity - and to ensure the conference is able to be held.
+- Business tickets: They start at 313.37€ :slight_smile: - regardless we do invite people with a professional background to consider a higher contribution to help subsidize the cost of friend tickets and ensure the event will be sustainable.
+
+The tickets sale is set to cover all the costs. If the sales produce more money than needed, then the rest of the money will be provided to the NixOS foundation.
 
 {{</ box >}}
 
@@ -33,10 +35,11 @@ also be available.
 
 # Timeline
 
-- **XX/XX/XXXX**: Tickets sale opening
+- **2024/07/13**: Tickets sale opening
 - **XX/XX/XXXX**: CFP
 - **XX/XX/XXXX**: CFP deadline
-- **XX/XX/XXXX**: Event starts
+- **2024/10/25**: Event starts
+- **2024/10/27**: Event Ends
 
 
 {{</ box >}}
