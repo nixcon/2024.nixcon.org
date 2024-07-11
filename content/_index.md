@@ -25,7 +25,7 @@ There are multiple ticket types:
 
 - Regular tickets: 133.73€, but you can set a higher amount, if you want. These include all the associated costs with the conference.
 - Friend tickets: You can set the price freely. We encourage you to set a fair amount, as we aim to make nixcon accessible to everyone, regardless of their financial situation. Please choose responsibly to ensure inclusivity - and to ensure the conference is able to be held.
-- Business tickets: They start at 313.37€ :slight_smile: - regardless we do invite people with a professional background to consider a higher contribution to help subsidize the cost of friend tickets and ensure the event will be sustainable.
+- Business tickets: They start at 313.37€ - regardless we do invite people with a professional background to consider a higher contribution to help subsidize the cost of friend tickets and ensure the event will be sustainable.
 
 The tickets sale is set to cover all the costs. If the sales produce more money than needed, then the rest of the money will be provided to the NixOS foundation.
 
