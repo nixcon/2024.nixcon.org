@@ -17,7 +17,7 @@ More info coming soon.
 
 # Tickets
 
-The ticket sale will open up at Saturday July 13, 2024 2:00 PM CEST. They will be available at: https://tickets.nixcon.org/2024/
+The ticket sale will open up at Saturday July 13, 2024 2:00 PM CEST. They will be available on: https://tickets.nixcon.org/2024/
 
 In order to make this a community-driven NixCon without sponsors, we have adopted a more dynamic pricing model.
 
