@@ -37,7 +37,7 @@ The tickets sale is set to cover all the costs. If the sales produce more money 
 
 - **2024/07/13**: Tickets sale opening
 - **2024/09/19**: CFP Submission Deadline
-- **2024/09/19**: CFP Review Deadline
+- **2024/10/11**: CFP Review Deadline
 - **2024/10/25**: Event starts
 - **2024/10/27**: Event Ends
 
