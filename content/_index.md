@@ -17,7 +17,7 @@ More info coming soon.
 
 # Tickets
 
-The ticket sale will open up at Saturday July 13, 2024 2:00 PM CEST. They will be available on: https://tickets.nixcon.org/2024/
+The ticket sale is open. They are be available on: https://tickets.nixcon.org/2024/. You are expected to buy a ticket to attend the event. Speakers and organizers are expected to buy their tickets as well.
 
 In order to make this a community-driven NixCon without sponsors, we have adopted a more dynamic pricing model.
 
@@ -36,8 +36,8 @@ The tickets sale is set to cover all the costs. If the sales produce more money 
 # Timeline
 
 - **2024/07/13**: Tickets sale opening
-- **XX/XX/XXXX**: CFP
-- **XX/XX/XXXX**: CFP deadline
+- **2024/09/19**: CFP Submission Deadline
+- **2024/09/19**: CFP Review Deadline
 - **2024/10/25**: Event starts
 - **2024/10/27**: Event Ends
 
