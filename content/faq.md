@@ -56,4 +56,20 @@ There are several options to choose from:
 
 * Turn into *Wiener Straße*, then turn right into *Ohlauer Straße* and finally turn left into *Paul-Lincke-Ufer*
 
+## Notes on accessibility with public transport
+
+All major train stations and S-Bahn stations from/to *Hauptbahnhof* (central station) — *Alexanderplatz* — *Jannowitzbrücke* — *Ostkreuz*, *BER Airport* — *Ostkreuz*, *BER Airport* — *Herrmannstraße* — *Südkreuz* are generally accessible without steps.
+
+The subway stations *Schönleinstraße* (**U8**) and *Görlitzer Bahnhof* (**U1** / **U3**) do not have an elevator and are therefore not accessible without steps. An [elevator replacement service](https://www.bvg.de/en/connections/bvg-muva/lift-substitute) can be booked free of charge.
+
+Additionally, a [travel guide](https://sbahn.berlin/en/plan-a-journey/rail-stations/accessible-travel/vbb-guide-service/) can be booked free of charge.
+
+{{</ box >}}
+
+{{< box >}}
+
+# Is bUm barrier-free?
+
+All rooms at bUm are accessible without steps.
+
 {{</ box >}}
