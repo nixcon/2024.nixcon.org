@@ -17,7 +17,7 @@ More info coming soon.
 
 # Tickets
 
-The ticket sale is open. They are be available on: https://tickets.nixcon.org/2024/. You are expected to buy a ticket to attend the event. Speakers and organizers are expected to buy their tickets as well.
+The ticket sale is open. They are available on: https://tickets.nixcon.org/2024/. You are expected to buy a ticket to attend the event. Speakers and organizers are expected to buy their tickets as well.
 
 In order to make this a community-driven NixCon without sponsors, we have adopted a more dynamic pricing model.
 
@@ -27,7 +27,7 @@ There are multiple ticket types:
 - Friend tickets: You can set the price freely. We encourage you to set a fair amount, as we aim to make nixcon accessible to everyone, regardless of their financial situation. Please choose responsibly to ensure inclusivity - and to ensure the conference is able to be held.
 - Business tickets: They start at 313.37€ - regardless we do invite people with a professional background to consider a higher contribution to help subsidize the cost of friend tickets and ensure the event will be sustainable.
 
-The tickets sale is set to cover all the costs. If the sales produce more money than needed, then the rest of the money will be provided to the NixOS foundation.
+The ticket sale is set to cover all the costs. If the sales produce more money than needed, then the rest of the money will be provided to the NixOS foundation.
 
 {{</ box >}}
 
