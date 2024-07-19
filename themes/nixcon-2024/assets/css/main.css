@@ -86,6 +86,10 @@ h1 {
 	padding-left: .5rem;
 }
 
+.box > pre {
+	padding-left: .5rem;
+}
+
 footer {
 	padding-top: 1em;
 }
