@@ -11,6 +11,11 @@ Germany.
 
 More info coming soon.
 
+## Code of Conduct
+
+By entering the venue, you accept the [Code of Conduct](https://bum.berlin/en/awareness/)
+as part of the house [terms and conditions](https://bum.berlin/en/terms-and-conditions/).
+
 {{</ box >}}
 
 {{< box >}}
