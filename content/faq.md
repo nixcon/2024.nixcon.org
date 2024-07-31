@@ -3,14 +3,6 @@
 
 {{< box >}}
 
-# Will There Be Cake?
-
-No.
-
-{{</ box >}}
-
-{{< box >}}
-
 # How to Get There?
 
 ## By car
@@ -71,5 +63,15 @@ Additionally, a [travel guide](https://sbahn.berlin/en/plan-a-journey/rail-stati
 # Is bUm barrier-free?
 
 All rooms at bUm are accessible without steps.
+
+{{</ box >}}
+
+{{< box >}}
+
+# Can I Get a Letter of Invitation for my Visa?
+
+We're happy to announce that we can issue a Letter of Invitation to all NixCon 2024 participants who need help with their visa. Just reach out to: [orgateam@nixcon.org](mailto:orgateam@nixcon.org)
+
+We'll provide you a template which you can fill out and send back to us for signature.
 
 {{</ box >}}
