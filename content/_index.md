@@ -48,7 +48,7 @@ The ticket sale is set to cover all the costs. If the sales produce more money t
 
 # Visa - Letter of Invitation
 
-We're happy to announce that we can issue a Letter of Invitation to all NixCon2024 participants who need help with their visa. Just reach out to: [orgateam@nixcon.org](mailto:orgateam@nixcon.org)
+We're happy to announce that we can issue a Letter of Invitation to all NixCon 2024 participants who need help with their visa. Just reach out to: [orgateam@nixcon.org](mailto:orgateam@nixcon.org)
 
 Our team will provide you a template which you can fill out and send back to us for signature.
 
