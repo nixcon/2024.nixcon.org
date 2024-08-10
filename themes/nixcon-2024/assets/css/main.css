@@ -153,10 +153,7 @@ footer > p {
 	}
 	#prev-editions {
 		display: flex;
-		justify-content: left;
-	}
-	#prev-editions > a {
-		margin-right: 1rem;
+		justify-content: space-between;
 	}
 }
 
