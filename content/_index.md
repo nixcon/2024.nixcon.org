@@ -33,6 +33,55 @@ The ticket sale is set to cover all the costs. If the sales produce more money t
 
 {{< box >}}
 
+# CFP
+
+We welcome any content that is Nix related, beginner or advanced we do not have any major restrictions besides that.
+
+Note: If your submission gets accepted, you still need a NixCon 2024 ticket!
+
+## Talks
+
+You can submit your application via:
+
+- **Pretalx**: https://pretalx.com/nixcon-2024
+- **Email**: 2024cfp@nixcon.org with subject NixCon 2024 talk application.
+
+Please include in your application:
+
+- abstract
+- target audience
+  - examples: beginner developer, advanced NixOS user, professional system administrator, be creative if you have to)
+- duration of your talk
+  - examples: 5min lightning talk, 45min lecture, 10 hours marathon (this will most likely be rejected)
+- preferred day and/or time of day
+
+## Workshops
+
+You can submit your application via:
+
+- **Pretalx**: https://pretalx.com/nixcon-2024
+- **Email**: 2024cfp@nixcon.org with subject NixCon 2024 workshop application
+
+Please include in your application:
+
+- type of workshop
+- target audience
+  - examples: beginner developer, advanced NixOS user, professional system administrator, be creative if you have to
+- duration of the workshop
+  - examples: 1 hour, 3 hours, one day, multiple days, etc.
+- preferred day and/or time of day
+- any further details about how you would like to run your workshop
+
+## Deadline
+
+You can submit your talk/workshop application up until 2024-09-19T23:59:59Z.
+
+We will let you know if your talk has been accepted/rejected by 2024-10-11T23:59:59Z
+
+{{</ box >}}
+
+{{< box >}}
+
 # Timeline
 
 - **2024/07/13**: Tickets sale opening
