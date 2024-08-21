@@ -76,7 +76,7 @@ Please include in your application:
 
 You can submit your talk/workshop application up until 2024-09-19T23:59:59Z.
 
-We will let you know if your talk has been accepted/rejected by 2024-10-11T23:59:59Z
+We will let you know if your talk has been accepted/rejected by 2024-09-28T23:59:59Z
 
 {{</ box >}}
 
@@ -86,7 +86,7 @@ We will let you know if your talk has been accepted/rejected by 2024-10-11T23:59
 
 - **2024/07/13**: Tickets sale opening
 - **2024/09/19**: CFP Submission Deadline
-- **2024/10/11**: CFP Review Deadline
+- **2024/09/28**: CFP Review Deadline
 - **2024/10/25**: Event starts
 - **2024/10/27**: Event Ends
 
