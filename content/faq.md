@@ -75,3 +75,12 @@ We're happy to announce that we can issue a Letter of Invitation to all NixCon 2
 We'll provide you a template which you can fill out and send back to us for signature.
 
 {{</ box >}}
+
+{{< box >}}
+
+# Do I need to prepare anything?
+
+As you prepare for the event we'd like to encourage all attendees to download any important repos to their local machines and prepare their API-Keys beforehand so we won't get rate-limited by Github.
+
+{{</ box >}}
+
