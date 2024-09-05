@@ -75,3 +75,16 @@ We're happy to announce that we can issue a Letter of Invitation to all NixCon 2
 We'll provide you a template which you can fill out and send back to us for signature.
 
 {{</ box >}}
+
+{{< box >}}
+
+# Do I need to prepare anything?
+
+As you prepare for the event we'd like to encourage all attendees to download any important repos to their local machines and prepare their API-Keys beforehand as **we will** get rate limited by some organisations.
+
+The Nix manual shows how to configure nix to use with [access-tokens](https://nix.dev/manual/nix/2.24/command-ref/conf-file.html#conf-access-tokens).
+
+For GitHub for example we recommend a [fine-grained token](https://github.com/settings/personal-access-tokens/new) with no extra account permissions, as it will be only used for authentication purposes.
+
+{{</ box >}}
+
