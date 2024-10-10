@@ -1,8 +1,8 @@
 ---
 ---
-# Schedule
 
-{{< table-scroll >}}
+{{< table-scroll-schedule >}}
+
 | Title                                                                                                                   | Speakers                                      | Type                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------|
 | Speed Dating                                                                                                            | lassulus                                      | Workshop/Training                                                                       |
@@ -51,4 +51,4 @@
 | Python Packaging with AI                                                                                                | Nitin Passa                                   | Lightning talk                                                                          |
 | Infecting Your Server with NixOS                                                                                        | João Thallis                                  | Workshop/Training                                                                       |
 
-{{< /table-scroll >}}
+{{< /table-scroll-schedule >}}
