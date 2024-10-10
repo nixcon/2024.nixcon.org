@@ -99,6 +99,25 @@ footer > p {
 	text-align: center;
 }
 
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding-left: 1em;
+    text-align: center;
+}
+
+tr > td:first-child {
+    text-align: left;
+}
+
+thead {
+    background: black;
+    color: white;
+}
+
 /* Desktop/laptop/big tablets */
 @media (min-width: 480px) {
 	#header {
