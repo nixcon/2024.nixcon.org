@@ -99,6 +99,15 @@ footer > p {
 	text-align: center;
 }
 
+#schedule {
+    margin-bottom: 0;
+    padding-left: .5rem;
+}
+
+.table-scroll {
+    overflow-x: auto;
+}
+
 table, th, td {
     border: 2px solid black;
     border-collapse: collapse;
