@@ -33,7 +33,7 @@ The ticket sale is set to cover all the costs. If the sales produce more money t
 
 # CFP
 
-The CFP is now closed. Check out the [schedule](/schedule) to see the selected talks.
+The CFP is now closed. Check out the [schedule](https://talks.nixcon.org/nixcon-2024/schedule/) to see the selected talks.
 
 {{</ box >}}
 
