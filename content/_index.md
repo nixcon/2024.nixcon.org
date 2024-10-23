@@ -34,14 +34,6 @@ The ticket sale is set to cover all the costs. If the sales produce more money t
 
 {{< box >}}
 
-# CFP
-
-The CFP is now closed. Check out the [schedule](https://talks.nixcon.org/nixcon-2024/schedule/) to see the selected talks.
-
-{{</ box >}}
-
-{{< box >}}
-
 # Timeline
 
 - ~~**2024/07/13**: Tickets sale opening~~
