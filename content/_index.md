@@ -42,5 +42,14 @@ The ticket sale is set to cover all the costs. If the sales produce more money t
 - **2024/10/25**: Event starts
 - **2024/10/27**: Event Ends
 
+{{</ box >}}
+
+{{< box >}}
+
+# Chat
+
+For everything NixCon-related and announcements there is a Matrix room you can
+join at [#nixcon:matrix.org](https://matrix.to/#/#nixcon:matrix.org)
+
 
 {{</ box >}}
