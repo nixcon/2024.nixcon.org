@@ -97,6 +97,11 @@ For GitHub for example we recommend a [fine-grained token](https://github.com/se
 
 Yes.
 
+Streaming will be available at:
+
+- https://live.nixos.org/
+- https://www.youtube.com/@NixCon
+
 {{</ box >}}
 
 
