@@ -104,6 +104,6 @@ Yes.
 
 # Where do volunteers meet?
 
-We meet on the 24.10.24 | 15:00 at [cbase](https://www.c-base.org/)
+We meet on the 24.10.24 | 17:00 at [bUm](https://bum.berlin)
  
 {{</ box >}}
