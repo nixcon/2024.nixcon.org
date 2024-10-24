@@ -98,3 +98,12 @@ For GitHub for example we recommend a [fine-grained token](https://github.com/se
 Yes.
 
 {{</ box >}}
+
+
+{{< box >}}
+
+# Where do volunteers meet?
+
+We meet on the 24.10.24 | 17:00 at [bUm](https://bum.berlin)
+ 
+{{</ box >}}
