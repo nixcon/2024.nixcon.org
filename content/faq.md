@@ -107,3 +107,20 @@ Yes.
 We meet on the 24.10.24 | 17:00 at [bUm](https://bum.berlin)
  
 {{</ box >}}
+
+
+{{< box >}}
+
+# Can I advertise my company?
+
+No 
+ 
+{{</ box >}}
+
+{{< box >}}
+
+# Can I bring stickers or advertisement?
+
+Commercial stickers or materials are not allowed but you can bring non-commercial materials.
+ 
+{{</ box >}}
