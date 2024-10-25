@@ -30,3 +30,13 @@ join at [#nixcon:matrix.org](https://matrix.to/#/#nixcon:matrix.org)
 
 
 {{</ box >}}
+
+{{< box >}}
+
+# Livestream
+
+Owncast: https://live.nixos.org/
+
+Youtube: https://www.youtube.com/watch?v=oAzkHpSWhaI
+
+{{</ box >}}
