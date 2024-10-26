@@ -37,6 +37,6 @@ join at [#nixcon:matrix.org](https://matrix.to/#/#nixcon:matrix.org)
 
 Owncast: https://live.nixos.org/
 
-Youtube: https://www.youtube.com/watch?v=_7wqXN-7ebw
+Youtube: [day 1](https://www.youtube.com/watch?v=oAzkHpSWhaI) [day 2](https://www.youtube.com/watch?v=_7wqXN-7ebw)
 
 {{</ box >}}
